@@ -32,5 +32,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/shopeasy-lite:v1
+            ghcr.io/${{ github.repository_owner }}/shopeasy-lite:v2
             ghcr.io/${{ github.repository_owner }}/shopeasy-lite:latest
